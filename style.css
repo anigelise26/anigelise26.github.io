@@ -1,0 +1,21 @@
+body {
+font-family: Trebuchet MS, sans-serif;
+}
+
+body.home {
+	background: linear-gradient(to right, #74ebd5, #acb6e5);
+}
+
+body.Malinin {
+	background-color: #D1EEFF;
+	}
+
+body.Makeup {
+	background-color: #FCEBFF;
+	}
+
+body.Chav {
+	background-color: #FFF0D6;
+	}
+
+
